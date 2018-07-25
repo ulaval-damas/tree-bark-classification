@@ -1,5 +1,8 @@
 # TreeBarkClassification
 
+## Article
+https://arxiv.org/abs/1803.00949
+
 ## Dataset
 https://storage.googleapis.com/tree_bark_dataset/dataset.zip
 
