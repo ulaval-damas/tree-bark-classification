@@ -1,0 +1,27 @@
+DATASET_PATH = /drive/seagate1T/small_renamed_cropped
+LOG_PATH = /home/mathieu/Universite/Maitrise/bark_classifier/log/
+
+N_EPOCHS = 100
+BATCH_SIZE = 64
+LR = 0.0001
+WEIGHT_DECAY = 0.0001
+
+LR_DECAY = 0.2
+EPOCH_LIST = [20, 40, 60, 80]
+
+TRAIN_SPLIT = 0.75
+
+MODEL = resnet34
+
+TRAIN_SIZE = 1.0
+TREE_SIZE = 0.2
+
+INCLUDE_IGNORE = False
+EXISTING_DATASET = None
+
+USE_MULTITASK = FALSE
+PRETRAINED = TRUE
+
+K_FOLD = 1
+PRINT = TRUE
+SAVE_GRAPH = TRUE
