@@ -19,7 +19,7 @@ doi={10.1109/IROS.2018.8593514},
 ISSN={2153-0866}, 
 month={Oct},}
 
-## BarkNet 1.0
+## BarkNet 1.0 Database
 
 August 27th, 2019: updated link for database.
 https://storage.googleapis.com/barknet-1/BarkNet1_0_Dataset.zip
