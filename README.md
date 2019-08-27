@@ -20,7 +20,9 @@ ISSN={2153-0866},
 month={Oct},}
 
 ## BarkNet 1.0
-https://storage.googleapis.com/tree_bark_dataset/dataset.zip
+
+August 27th, 2019: updated link for database.
+https://storage.googleapis.com/barknet-1/BarkNet1_0_Dataset.zip
 
 ## How to run
 `python3 train.py --config PATH_TO_CONFIG_FILE`
