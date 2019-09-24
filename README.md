@@ -21,8 +21,8 @@ month={Oct},}
 
 ## BarkNet 1.0 Database
 
-August 27th, 2019: updated link for database.
-https://storage.googleapis.com/barknet-1/BarkNet1_0_Dataset.zip
+September 24th, 2019: rezipped the database due to CRC errors.
+https://storage.googleapis.com/barknet-1/BarkNet%201.0.zip
 
 ## How to run
 `python3 train.py --config PATH_TO_CONFIG_FILE`
