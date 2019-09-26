@@ -21,7 +21,7 @@ month={Oct},}
 
 ## BarkNet 1.0 Database
 
-September 24th, 2019: rezipped the database due to CRC errors.
+September 25th, 2019: rezipped due to missing files and CRC errors.
 
 https://storage.googleapis.com/barknet-1/BarkNet%201.0.zip
 
