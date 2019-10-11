@@ -21,9 +21,8 @@ month={Oct},}
 
 ## BarkNet 1.0 Database
 
-September 25th, 2019: rezipped due to missing files and CRC errors.
-
-https://storage.googleapis.com/barknet-1/BarkNet%201.0.zip
+October 11th, 2019: fixed corrupted BOJ+BOP pictures.
+https://storage.googleapis.com/barknet-1/BarkNet%201.0001.zip
 
 ## How to run
 `python3 train.py --config PATH_TO_CONFIG_FILE`
