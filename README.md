@@ -22,10 +22,10 @@ month={Oct},}
 ## BarkNet 1.0 Database
 
 Available on Mendeley, in 4 chunks :
-Part 1 of 4 : https://data.mendeley.com/datasets/zgr7r2r4nt/1
-Part 2 of 4 : https://data.mendeley.com/datasets/xps2rnk8zp/1
-Part 3 of 4 : https://data.mendeley.com/datasets/553g3v244g/1
-Part 4 of 4 : https://data.mendeley.com/datasets/5sw2c38f8w/7
+* Part 1 of 4: https://data.mendeley.com/datasets/zgr7r2r4nt/1
+* Part 2 of 4: https://data.mendeley.com/datasets/xps2rnk8zp/1
+* Part 3 of 4: https://data.mendeley.com/datasets/553g3v244g/1
+* Part 4 of 4: https://data.mendeley.com/datasets/5sw2c38f8w/7
 
 October 11th, 2019: fixed corrupted BOJ+BOP pictures.
 https://storage.googleapis.com/barknet-1/BarkNet%201.0001.zip (link expired)
