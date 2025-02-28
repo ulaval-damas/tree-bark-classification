@@ -28,7 +28,7 @@ Available on Mendeley, in 4 chunks :
 * Part 4 of 4: https://data.mendeley.com/datasets/5sw2c38f8w/7
 
 October 11th, 2019: fixed corrupted BOJ+BOP pictures.
-https://storage.googleapis.com/barknet-1/BarkNet%201.0001.zip (link expired)
+https://zenodo.org/records/11508014
 
 ## How to run
 `python3 train.py --config PATH_TO_CONFIG_FILE`
